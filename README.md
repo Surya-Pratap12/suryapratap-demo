@@ -1,5 +1,5 @@
 # suryapratap-demo
-this is repository
+this is repository.
 <br>
 Author - Surya Pratap Singh
 
